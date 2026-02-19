@@ -1,0 +1,12 @@
+.headertext{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 30px;
+}
+.text-header{
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+}

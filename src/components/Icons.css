@@ -1,0 +1,10 @@
+.icon-container{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 21px;
+    
+}
+.image2{
+    width: 18px;
+    height: 18px;
+}

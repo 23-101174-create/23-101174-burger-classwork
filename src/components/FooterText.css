@@ -1,0 +1,30 @@
+.header{
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+}
+.paragraph{
+    display: flex;
+    width: 420px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+}
+.containericon{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 30px;
+}
+.containerall{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 600px;
+    justify-content: center;
+}
